@@ -6,7 +6,7 @@
  * @size: size of the array
  * @c: character to insert
  * Return: null if size is zero or if it fails,
- * pointer to array if array is normal.
+ * pointer to array if everything is normal.
  */
 
 char *create_array(unsigned int size, char c)
